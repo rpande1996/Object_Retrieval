@@ -1,10 +1,12 @@
-## AR_Plotting
+## Object_Retrieval
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ---
 
 ## Overview
 
-
+The objective of this code is to track a specified object, pick it up and deliver the object. The robot also sends 2 emails;
+1. When it picks up the object
+2. When it delivers the object
 
 ## Hardware
 
